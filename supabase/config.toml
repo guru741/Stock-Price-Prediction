@@ -1,0 +1,16 @@
+project_id = "rohkzsjtrwujiryyaiqa"
+
+[functions.predict-stock]
+verify_jwt = false
+
+[functions.company-financials]
+verify_jwt = false
+
+[functions.stock-fundamentals]
+verify_jwt = false
+
+[functions.stock-news]
+verify_jwt = false
+
+[functions.stock-ownership]
+verify_jwt = false
